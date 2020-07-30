@@ -1,4 +1,4 @@
-Hi, I'm Rilwan 👋🏾 👩🏾‍💻
+Hi, I'm Rilwan 
 <!--
 **Mohamed-rilwan/Mohamed-rilwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
