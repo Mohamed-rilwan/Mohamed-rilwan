@@ -26,6 +26,8 @@ I've been coding on React for past few years, but found a great interest in back
 
 *   🌍  I'm based in Bengaluru, India
 *   ✉️  You can contact me at [s.mohamedrilwan@outlook.com](mailto:s.mohamedrilwan@outlook.com)
+*   🌱 I’m currently pursuing Masters in Computer Science in University of St Andrews, Scotland
+*   👯 I’m looking to collaborate on Blockchain, Web Development
 *   ⚡  I'm like Batman. You see me working majorly in the night
 
 ### Skills
