@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Mohamed Rilwan
 ===============================
 
-Full stack Engineer
+Full Stack Engineer
 -------------------
 
 I've been coding on React for past few years, but found a great interest in backend development in C#. Azure has been my major go to for cloud services, but AWS leads the market so had to learn it too.
