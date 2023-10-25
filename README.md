@@ -13,7 +13,7 @@ Full Stack Engineer
 I've been coding on React for past few years, but found a great interest in backend development in C#. Azure has been my major go to for cloud services, but AWS leads the market so had to learn it too.
 
 *   🌍  I'm based in Bengaluru, India. Currently living in Scotland, United Kingdom
-*   ✉️  You can contact me at [s.mohamedrilwan@outlook.com](mailto:s.mohamedrilwan@outlook.com)
+*   ✉️  You can contact me at [s.mohamedrilwan@outlook.com](mailto:s.mohamedrilwan@outlook.com) :phone: [+44 74670 87387]
 *   🌱 I’m currently pursuing Masters in Computer Science in University of St Andrews, Scotland
 *   👯 I’m looking to collaborate on Blockchain, Web Development
 *   ⚡  I'm like Batman. You see me working majorly in the night
