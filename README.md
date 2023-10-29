@@ -13,11 +13,12 @@ Full Stack Engineer
 I've been coding on React for past few years, but found a great interest in backend development in C#. Azure has been my major go to for cloud services, but AWS leads the market so had to learn it too.
 
 *   🌍  I'm based in Bengaluru, India. Currently living in Scotland, United Kingdom
-*   ✉️  You can contact me at [s.mohamedrilwan@outlook.com](mailto:s.mohamedrilwan@outlook.com) :phone: [+44 74670 87387]
+*   ✉️  You can contact me at [s.mohamedrilwan@outlook.com](mailto:s.mohamedrilwan@outlook.com) :phone: :calling: [+44 74670 87387]
 *   🌱 I’m currently pursuing Masters in Computer Science in University of St Andrews, Scotland
 *   👯 I’m looking to collaborate on Blockchain, Web Development
 *   ⚡  I'm like Batman. You see me working majorly in the night
-
+*   🔥  Here is my website showcasing my writing skill, my autobiography, and what my collegues had to say about me (only good comments 😜)! - [Mohamed Rilwan](https://www.lifecraftedbyrilwan.com) 
+ 
 ### Skills
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -36,13 +37,15 @@ I've been coding on React for past few years, but found a great interest in back
 ### Socials         
 <p align="left"> 
               <a href="https://www.github.com/Mohamed-rilwan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                  
-              <a href="http://www.instagram.com/mohamed.s.rilwan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+              <a href="http://www.instagram.com/mohamed.s.rilwan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                 <a href="https://www.linkedin.com/in/mohamed-s-rilwan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
               
-### Badges<b>My GitHub Stats</b>
+### My GitHub Stats
+<p align="left">
    <a href="http://www.github.com/Mohamed-rilwan"><img src="https://github-readme-stats.vercel.app/api?username=Mohamed-rilwan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mohamed-rilwan's GitHub stats" /></a>
    <a href="http://www.github.com/Mohamed-rilwan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-rilwan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-   <a href="https://github.com/Mohamed-rilwan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-rilwan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ </p>
               
-### Support Me
+### Support Me : I like your enthusiasm, but its a broken link. I drink Tea. Thank you!
   <a href="https://www.buymeacoffee.com/mohamed-rilwan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
